@@ -1,4 +1,4 @@
-# 🧬 GENOTECH – DNA Sequence Analysis Web App
+# GENOTECH – DNA Sequence Analysis Web App
 
 GENOTECH is a Flask-based bioinformatics web application that performs real-time DNA sequence analysis with interactive visualization and AI-based classification.
 
@@ -6,29 +6,28 @@ It allows users to input or upload DNA sequences and instantly generates insight
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🧬 DNA sequence analysis (A, T, G, C counts)
-- 📊 Interactive charts (Bar & Pie using Chart.js)
-- 🔬 GC content & AT/GC ratio analysis
-- 🧠 AI-based classification (Random Forest model)
-- 🔁 Mutation detection (sequence comparison with reference)
-- 📁 File upload support (.txt / .fasta)
-- 📥 Downloadable analysis report
-- 🎨 Modern animated UI
-- ⚡ Real-time Flask backend processing
+-  DNA sequence analysis (A, T, G, C counts)
+-  Interactive charts (Bar & Pie using Chart.js)
+-  GC content & AT/GC ratio analysis
+-  AI-based classification (Random Forest model)
+-  Mutation detection (sequence comparison with reference)
+-  File upload support (.txt / .fasta)
+-  Downloadable analysis report
+-  Modern animated UI
+-  Real-time Flask backend processing
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Frontend: HTML, CSS, JavaScript, Chart.js  
 - Backend: Flask (Python)  
 - Machine Learning: Scikit-learn, NumPy  
 
----
 
-## 📂 Project Structure
+##  Project Structure
 
 GENOTECH/
 ├── app.py
@@ -39,7 +38,7 @@ GENOTECH/
 
 ---
 
-## ⚙️ Run Locally
+## Run Locally
 
 ```bash
 git clone https://github.com/your-username/genotech.git
